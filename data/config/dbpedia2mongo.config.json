@@ -13,6 +13,7 @@
 		{"filename": "core-i18n/en/images_en.ttl.bz2"},
 		{"filename": "core-i18n/en/infobox_properties_en.ttl.bz2"},
 		{"filename": "core-i18n/en/instance_types_transitive_en.ttl.bz2"},
+		{"filename": "core-i18n/en/instance_types_en.ttl.bz2"},
 		{"filename": "core-i18n/en/labels_en.ttl.bz2"},
 		{"filename": "core-i18n/en/long_abstracts_en.ttl.bz2"},
 		{"filename": "core-i18n/en/mappingbased_literals_en.ttl.bz2"},
